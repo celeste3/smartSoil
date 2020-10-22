@@ -1,0 +1,2 @@
+# smartSoil
+IoT Flowerpot Project
